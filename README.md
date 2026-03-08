@@ -2,6 +2,8 @@
 
 A React + [Klean](https://www.npmjs.com/package/create-klean) authentication app with signup, login, protected routing, and a simple dashboard.
 
+Demo: [https://nairah.vercel.app/](https://nairah.vercel.app/)
+
 <img src="preview.png" alt="nairah preview" />
 
 ## Features
